@@ -18,13 +18,13 @@ Any papers that help answering the question "How do I label my cells in my singl
 ## Pre-print
 
 - [CellMeSH: Probabilistic Cell-Type Identification Using Indexed Literature](https://www.biorxiv.org/content/10.1101/2020.05.29.124743v1)
-- [Probabilistic gene expression signatures identify cell-types from single cell RNA-seq data(https://www.biorxiv.org/content/10.1101/2020.01.05.895441v2)
+- [Probabilistic gene expression signatures identify cell-types from single cell RNA-seq data](https://www.biorxiv.org/content/10.1101/2020.01.05.895441v2)
 
 ## Post-print
 - [SciBet as a portable and fast single cell type identifier](https://www.nature.com/articles/s41467-020-15523-2)
 - [scCATCH: Automatic Annotation on Cell Types of Clusters from Single-Cell RNA Sequencing Data](https://www.cell.com/iscience/pdf/S2589-0042(20)30066-3.pdf)
 - [SCSA: A Cell Type Annotation Tool for Single-Cell RNA-seq Data](https://www.frontiersin.org/articles/10.3389/fgene.2020.00490/full)
-- [scCATCH: Automatic Annotation on Cell Types of Clusters from Single-Cell RNA Sequencing Data](https://www.sciencedirect.com/science/article/pii/S2589004220300663)
+- [CHETAH: a selective, hierarchical cell type identification method for single-cell RNA sequencing](https://academic.oup.com/nar/article/47/16/e95/5521789)
 
 # R package vignettes
 
